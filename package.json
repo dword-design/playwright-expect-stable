@@ -31,9 +31,6 @@
     "typecheck": "base typecheck",
     "verify": "base verify"
   },
-  "dependencies": {
-    "@dword-design/defu": "^1.0.3"
-  },
   "devDependencies": {
     "@dword-design/base": "^15.2.3"
   },

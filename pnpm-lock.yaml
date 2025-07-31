@@ -8,9 +8,6 @@ importers:
 
   .:
     dependencies:
-      '@dword-design/defu':
-        specifier: ^1.0.3
-        version: 1.0.3
       '@playwright/test':
         specifier: ^1
         version: 1.54.1
