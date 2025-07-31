@@ -77,6 +77,8 @@ test('works', ({ page }) => {
 });
 ```
 
+See [GitHub issue](https://github.com/microsoft/playwright/issues/15195) for details.
+
 <!-- LICENSE/ -->
 ## Contribute
 
