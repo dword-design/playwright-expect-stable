@@ -50,7 +50,7 @@
 <!-- /BADGES -->
 
 <!-- DESCRIPTION/ -->
-
+toBeStable expect assertion to test if an element is not moving.
 <!-- /DESCRIPTION -->
 
 <!-- INSTALL/ -->
