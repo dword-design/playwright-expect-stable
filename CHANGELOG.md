@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/dword-design/playwright-expect-stable/compare/v1.0.2...v1.0.3) (2025-07-31)
+
+
+### Bug Fixes
+
+* remove options ([0c3a30e](https://github.com/dword-design/playwright-expect-stable/commit/0c3a30e2cfe3954a3bd5f5a0b2a47c5ee22c705f))
+
 ## [1.0.2](https://github.com/dword-design/playwright-expect-stable/compare/v1.0.1...v1.0.2) (2025-07-31)
 
 
