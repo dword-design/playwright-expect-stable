@@ -65,6 +65,18 @@ $ yarn add playwright-expect-stable
 ```
 <!-- /INSTALL -->
 
+## Usage
+
+```ts
+import { test } from '@playwright/test';
+import { expect } from 'playwright-expect-snapshot';
+
+test('works', ({ page }) => {
+  const element = page.locator('.some-animated-element');
+  expect(element).toBeStable();
+});
+```
+
 <!-- LICENSE/ -->
 ## Contribute
 
