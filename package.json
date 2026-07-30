@@ -30,7 +30,7 @@
     "verify": "base verify"
   },
   "devDependencies": {
-    "@dword-design/base": "^15.2.3"
+    "@dword-design/base": "^16.0.0"
   },
   "peerDependencies": {
     "@playwright/test": "^1"
